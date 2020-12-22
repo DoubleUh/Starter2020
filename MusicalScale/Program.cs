@@ -13,6 +13,7 @@ namespace MusicalScale
             Console.Beep(784, 500); // Соль
             Console.Beep(880, 500); // Ля
             Console.Beep(988, 500); // Си
+        
         }
     }
 }
